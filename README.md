@@ -1,6 +1,6 @@
 # My-Coding-Journey
 
-# yo 👋 I'm Kushagra
+# Yo 👋 I'm Kushagra
 
 🎂 13 years old (yes, actually 13)
 🇮🇳 building from india
@@ -46,6 +46,11 @@ more coming soon. leveling up daily.
 - 🐐 become THAT developer
 
 ---
+
+## Projects 
+1. A temprature converter (my first project).
+2. A basic calculator.
+  
 
 ## ⚡ fun fact
 
