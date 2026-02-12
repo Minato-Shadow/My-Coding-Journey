@@ -50,6 +50,7 @@ more coming soon. leveling up daily.
 ## Projects 
 1. A temprature converter (my first project).
 2. A basic calculator.
+3. A number guessing game.
   
 
 ## ⚡ fun fact
